@@ -32,7 +32,7 @@ export default function TransactionForm({ onClose, isOpen }) {
     });
   }
 
-  // console.log()
+  // console
 
   return (
     <Modal isOpen={isOpen} onClose={onClose}>
